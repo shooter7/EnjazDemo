@@ -1,0 +1,14 @@
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\bin\Debug\netcoreapp2.1\EnjazDemo.deps.json
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\bin\Debug\netcoreapp2.1\EnjazDemo.runtimeconfig.json
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\bin\Debug\netcoreapp2.1\EnjazDemo.runtimeconfig.dev.json
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\bin\Debug\netcoreapp2.1\EnjazDemo.dll
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.csprojAssemblyReference.cache
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.RazorAssemblyInfo.cache
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.RazorAssemblyInfo.cs
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.AssemblyInfoInputs.cache
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.AssemblyInfo.cs
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\bin\Debug\netcoreapp2.1\EnjazDemo.pdb
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.dll
+C:\Users\Ahmed_Jassim\source\repos\EnjazDemo\EnjazDemo\obj\Debug\netcoreapp2.1\EnjazDemo.pdb
